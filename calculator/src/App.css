@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calc-wrapper {
+  background-color: white;
+  width: 30%;
+  border-radius: 16px;
+  padding-bottom: 1px;
+}
+
+.row {
+  display: flex;
+}
+
+div#root{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,20 @@
+.input-wrapper {
+    height: 110px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 16px;
+  }
+  
+.result h1 {
+    font-size: 40px;
+}
+  
+.text h3 {
+    font-size: 25px;
+}
+
+h1, h3{
+    margin: 0;
+}

@@ -1,0 +1,21 @@
+.button-wrapper {
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    background-color: #5a5a5a;
+    color: white;
+    flex: 1;
+    margin: 4px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.operand{
+    background-color: #f2a33c;
+}
+
+.clear{
+    background-color: red;
+}
